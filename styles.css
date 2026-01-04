@@ -1,0 +1,44 @@
+body {
+    background-color: #ADD8E6;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #383133;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #295e6dcc;
+}
+
+p {
+    text-align: center;
+    margin: 10px 0;
+}
+
+figure {
+    margin: 20px auto;
+    text-align: center;
+}
+
+figure img {
+    max-width: 500px;    
+}
+
+nav {
+    background-color: rgb(95, 136, 163);
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+nav a {
+    color: rgb(18, 50, 109);
+    margin: 0 12px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
