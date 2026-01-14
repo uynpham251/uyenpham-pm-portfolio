@@ -8,7 +8,7 @@ This portfolio showcases:
 - My approach to problem solving, user needs, and product decisions
 
 ## Live Website
--> https://uyenpham251.github.io/uyenpham-pm-portfolio/](https://uynpham251.github.io/uyenpham-pm-portfolio/
+-> https://uynpham251.github.io/uyenpham-pm-portfolio/
 
 ## Featured Case Study
 - **Recipai – AI Cooking Assistant**
